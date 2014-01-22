@@ -26,3 +26,4 @@ Tweet Vending machine
  - [_] Talk to database for list of items & cost
  - [_] Talk to paypal API
  - [_] PHP web interface for settings
+ - [ ] new features
